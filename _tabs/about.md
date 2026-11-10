@@ -8,7 +8,7 @@ order: 4
 
 안녕하세요, JaeSeok입니다.
 
-개발을 공부하며 막혔던 문제와 해결 과정을 기록합니다.
+개발 공부하며 막혔던 문제와 해결 과정을 기록합니다.
 
 ---
 
@@ -17,12 +17,12 @@ order: 4
 | 분류 | 기술 |
 |------|------|
 | Language | Java |
-| Framework | Spring Boot, Spring MVC, Spring Security |
+| Framework | Spring Boot, Spring MVC, Spring Security, Spring AOP |
 | ORM / DB | JPA(Hibernate), MySQL, Redis |
 | Testing | JUnit5, Mockito, k6 |
 | Infra / Tools | Git, GitHub Actions, Gradle, Docker, AWS |
 | Messaging | Kafka |
-| Architecture | AOP, Layered Architecture, Facade Pattern |
+| Architecture | Layered Architecture, Facade Pattern |
 
 ---
 
